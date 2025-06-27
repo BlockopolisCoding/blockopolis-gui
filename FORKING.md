@@ -1,17 +1,17 @@
-This file contains instructions on what you should do upon forking PenguinMod.
+This file contains instructions on what you should do upon forking Blockopolis.
 
 You don't HAVE to follow this document but it'll prevent a lot of confusion for your users and likely prevent your mod from being blacklisted from our internal servers.
 
 # Branding changes
-Update any labels or text that says "PenguinMod" and put your mod's name.
+Update any labels or text that says "Blockopolis" and put your mod's name.
 You shouldn't do this for IDs or anything like that.
 
 You should also update your credits & privacy policy pages. We didn't work on your mod, you just made an extension of ours.
 
-Update any links to our github to yours so people can find the source code. Also make sure to update links that you have your own version of like feedback, docs, or packager.
+Update any links to our GitHub to yours so people can find the source code. Also make sure to update links that you have your own version of like feedback, docs, or packager.
 
 ### The "don't do that" section
-Don't remove any credit to Scratch, TurboWarp, or PenguinMod. That's just not cool.  
+Don't remove any credit to Scratch, TurboWarp, PenguinMod, Snail IDE, Electramod, or Blockopolis. That's just not cool.  
 Imagine if someone just forked your copy and pretended they made it all themselves.
 
 I'm not legal advice but you should probably not change the license or make the public repos you forked into private ones.
