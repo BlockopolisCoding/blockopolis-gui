@@ -12,8 +12,8 @@ dependencies:
     specifier: ^0.11.0
     version: 0.11.0(@xterm/xterm@5.5.0)
   PenguinMod-MarkDown:
-    specifier: github:PenguinMod/PenguinMod-MarkDown#master
-    version: github.com/PenguinMod/PenguinMod-MarkDown/af23e940551a5ea30f8c6aa118c84a791ecf0f02
+    specifier: github:Blockopolis/Blockopolis-MarkDown#master
+    version: github.com/Blockopolis/Blockopolis-MarkDown/af23e940551a5ea30f8c6aa118c84a791ecf0f02
   arraybuffer-loader:
     specifier: ^1.0.8
     version: 1.0.8
